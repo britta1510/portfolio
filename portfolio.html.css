@@ -1,0 +1,23 @@
+.potfolio {
+    display: flex;
+    width: 50%;
+    height: 50%;
+    text-align: center;
+    padding: 05px;
+    align-items: center;
+    margin: auto;
+    justify-content: center;
+}
+.name{
+    font-size: 40px;
+    display:flex;
+}
+.button{
+    text-align: center;
+    padding: 10px;
+    color:aliceblue;
+    background-color: rgb(206, 151, 32);
+}
+.img{
+    background-color: rgb(206, 151, 32) ;
+}
